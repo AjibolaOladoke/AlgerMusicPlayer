@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the AlgerMusicPlayer no
 
 ## Images
 
-[![AlgerMusicPlayer](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![AlgerMusicPlayer](images/preview.png)](https://github.com/Swift-Tech-Co/AlgerMusicPlayer)
 
 ## 项目简介
 
@@ -14,16 +14,16 @@ A practical reference entry for product and engineering: the AlgerMusicPlayer no
 
 ## 预览地址
 
-https://www.swifttechco.com
+https://github.com/Swift-Tech-Co/AlgerMusicPlayer
 
 ## 软件截图
 
-[![首页白](./docs/image.png)](https://www.swifttechco.com)
-[![首页黑](./docs/image3.png)](https://www.swifttechco.com)
-[![歌词](./docs/image6.png)](https://www.swifttechco.com)
-[![桌面歌词](./docs/image2.png)](https://www.swifttechco.com)
-[![设置页面](./docs/image4.png)](https://www.swifttechco.com)
-[![音乐远程控制](./docs/image5.png)](https://www.swifttechco.com)
+[![首页白](./docs/image.png)](https://github.com/Swift-Tech-Co/AlgerMusicPlayer)
+[![首页黑](./docs/image3.png)](https://github.com/Swift-Tech-Co/AlgerMusicPlayer)
+[![歌词](./docs/image6.png)](https://github.com/Swift-Tech-Co/AlgerMusicPlayer)
+[![桌面歌词](./docs/image2.png)](https://github.com/Swift-Tech-Co/AlgerMusicPlayer)
+[![设置页面](./docs/image4.png)](https://github.com/Swift-Tech-Co/AlgerMusicPlayer)
+[![音乐远程控制](./docs/image5.png)](https://github.com/Swift-Tech-Co/AlgerMusicPlayer)
 
 ## 项目启动
 
@@ -45,8 +45,8 @@ npm run dev
 
 ## 项目统计
 
-[![Stargazers over time](https://starchart.cc/algerkong/AlgerMusicPlayer.svg?variant=adaptive)](https://www.swifttechco.com)
-[![Alt](https://repobeats.axiom.co/api/embed/c4d01b3632e241c90cdec9508dfde86a7f54c9f5.svg 'Repobeats analytics image')](https://www.swifttechco.com)
+[![Stargazers over time](https://starchart.cc/algerkong/AlgerMusicPlayer.svg?variant=adaptive)](https://github.com/Swift-Tech-Co/AlgerMusicPlayer)
+[![Alt](https://repobeats.axiom.co/api/embed/c4d01b3632e241c90cdec9508dfde86a7f54c9f5.svg 'Repobeats analytics image')](https://github.com/Swift-Tech-Co/AlgerMusicPlayer)
 
 ## 欢迎提Issues
 
@@ -69,13 +69,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/AlgerMusicPlayer
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
